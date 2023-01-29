@@ -26,7 +26,7 @@ def circulate():
     b=int(input())
     c=a[b:]+a[:b]
     print('After circulating the values are:',c)
-    ```
+ ```
 ## Output:
 
 ![circulate](https://user-images.githubusercontent.com/121490523/215333832-982cad1e-dfa6-473c-9beb-0ba941c994ce.png)
