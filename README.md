@@ -28,7 +28,9 @@ def circulate():
     print('After circulating the values are:',c)
     ```
 ## Output:
-![circulate](https://user-images.githubusercontent.com/121490523/215333717-09b1008f-2ccc-4f2c-bfb0-85491d2ddd3a.png)
+
+![circulate](https://user-images.githubusercontent.com/121490523/215333832-982cad1e-dfa6-473c-9beb-0ba941c994ce.png)
+
 
 ## Result:
 The python program for circulation of list executed successfully
